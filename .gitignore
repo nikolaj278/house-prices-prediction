@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Models and data directories
+models/
+data/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
