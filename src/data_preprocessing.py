@@ -20,3 +20,4 @@ def sub_missing(df):
     df.fillna({'GarageYrBlt': 0}, inplace=True)
     
     return df
+
